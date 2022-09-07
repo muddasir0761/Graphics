@@ -1,4 +1,4 @@
 # Graphics
 
-click to visit: https://github.com/muddasir0761/Graphics
+Click to visit website:https://muddasir0761.github.io/Graphics/
 
